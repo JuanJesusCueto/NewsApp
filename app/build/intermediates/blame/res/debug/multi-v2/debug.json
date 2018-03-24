@@ -759,10 +759,20 @@
             ]
         },
         {
-            "outputFile": "/Users/juanjesuscuetoyabar/Documents/NewsApp/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat",
+            "outputFile": "/Users/juanjesuscuetoyabar/Documents/NewsApp/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89ce3652c693cc2b853cc695381c9afa/res/values-km/values-km.xml",
+                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/73a2c939cc3499d3fa54d1eb96d86d08/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,318,429,517,622,735,819,901,984,1097,1204,1302,1415,1519,1623,1780,1878",
+                        "endColumns": "108,103,110,87,104,112,83,81,82,112,106,97,112,103,103,156,97,80",
+                        "endOffsets": "209,313,424,512,617,730,814,896,979,1092,1199,1297,1410,1514,1618,1775,1873,1954"
+                    }
+                },
+                {
+                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89ce3652c693cc2b853cc695381c9afa/res/values-ka/values-ka.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -773,19 +783,9 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1943",
+                        "startOffsets": "1959",
                         "endColumns": "100",
-                        "endOffsets": "2039"
-                    }
-                },
-                {
-                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/73a2c939cc3499d3fa54d1eb96d86d08/res/values-km/values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,308,420,507,611,729,806,883,966,1070,1175,1275,1385,1492,1600,1762,1860",
-                        "endColumns": "102,99,111,86,103,117,76,76,82,103,104,99,109,106,107,161,97,82",
-                        "endOffsets": "203,303,415,502,606,724,801,878,961,1065,1170,1270,1380,1487,1595,1757,1855,1938"
+                        "endOffsets": "2055"
                     }
                 }
             ]
@@ -823,20 +823,10 @@
             ]
         },
         {
-            "outputFile": "/Users/juanjesuscuetoyabar/Documents/NewsApp/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
+            "outputFile": "/Users/juanjesuscuetoyabar/Documents/NewsApp/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/73a2c939cc3499d3fa54d1eb96d86d08/res/values-ka/values-ka.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,318,429,517,622,735,819,901,984,1097,1204,1302,1415,1519,1623,1780,1878",
-                        "endColumns": "108,103,110,87,104,112,83,81,82,112,106,97,112,103,103,156,97,80",
-                        "endOffsets": "209,313,424,512,617,730,814,896,979,1092,1199,1297,1410,1514,1618,1775,1873,1954"
-                    }
-                },
-                {
-                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89ce3652c693cc2b853cc695381c9afa/res/values-ka/values-ka.xml",
+                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89ce3652c693cc2b853cc695381c9afa/res/values-km/values-km.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -847,28 +837,38 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1959",
+                        "startOffsets": "1943",
                         "endColumns": "100",
-                        "endOffsets": "2055"
+                        "endOffsets": "2039"
+                    }
+                },
+                {
+                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/73a2c939cc3499d3fa54d1eb96d86d08/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,308,420,507,611,729,806,883,966,1070,1175,1275,1385,1492,1600,1762,1860",
+                        "endColumns": "102,99,111,86,103,117,76,76,82,103,104,99,109,106,107,161,97,82",
+                        "endOffsets": "203,303,415,502,606,724,801,878,961,1065,1170,1270,1380,1487,1595,1757,1855,1938"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/Users/juanjesuscuetoyabar/Documents/NewsApp/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "outputFile": "/Users/juanjesuscuetoyabar/Documents/NewsApp/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/73a2c939cc3499d3fa54d1eb96d86d08/res/values-ko/values-ko.xml",
+                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/73a2c939cc3499d3fa54d1eb96d86d08/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
-                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
-                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
+                        "startOffsets": "105,205,302,414,499,600,714,794,874,955,1065,1173,1271,1380,1479,1582,1737,1835",
+                        "endColumns": "99,96,111,84,100,113,79,79,80,109,107,97,108,98,102,154,97,80",
+                        "endOffsets": "200,297,409,494,595,709,789,869,950,1060,1168,1266,1375,1474,1577,1732,1830,1911"
                     }
                 },
                 {
-                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89ce3652c693cc2b853cc695381c9afa/res/values-ko/values-ko.xml",
+                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89ce3652c693cc2b853cc695381c9afa/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -879,9 +879,9 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1824",
+                        "startOffsets": "1916",
                         "endColumns": "100",
-                        "endOffsets": "1920"
+                        "endOffsets": "2012"
                     }
                 }
             ]
@@ -919,20 +919,20 @@
             ]
         },
         {
-            "outputFile": "/Users/juanjesuscuetoyabar/Documents/NewsApp/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
+            "outputFile": "/Users/juanjesuscuetoyabar/Documents/NewsApp/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/73a2c939cc3499d3fa54d1eb96d86d08/res/values-is/values-is.xml",
+                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/73a2c939cc3499d3fa54d1eb96d86d08/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,205,302,414,499,600,714,794,874,955,1065,1173,1271,1380,1479,1582,1737,1835",
-                        "endColumns": "99,96,111,84,100,113,79,79,80,109,107,97,108,98,102,154,97,80",
-                        "endOffsets": "200,297,409,494,595,709,789,869,950,1060,1168,1266,1375,1474,1577,1732,1830,1911"
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
                     }
                 },
                 {
-                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89ce3652c693cc2b853cc695381c9afa/res/values-is/values-is.xml",
+                    "source": "/Users/juanjesuscuetoyabar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89ce3652c693cc2b853cc695381c9afa/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -943,9 +943,9 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1916",
+                        "startOffsets": "1824",
                         "endColumns": "100",
-                        "endOffsets": "2012"
+                        "endOffsets": "1920"
                     }
                 }
             ]

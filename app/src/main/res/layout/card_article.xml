@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="4dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="4dp"
+    app:cardPreventCornerOverlap="false">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp">
+
+        <com.androidnetworking.widget.ANImageView
+            android:id="@+id/articleANImageView"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            android:layout_margin="8dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tittle"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:layout_margin="8dp"
+            android:textAlignment="center"
+            app:layout_constraintTop_toBottomOf="@id/articleANImageView"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v7.widget.CardView>

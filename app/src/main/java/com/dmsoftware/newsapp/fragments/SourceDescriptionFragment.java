@@ -12,12 +12,9 @@ import android.widget.TextView;
 
 import com.androidnetworking.widget.ANImageView;
 import com.dmsoftware.newsapp.R;
-import com.dmsoftware.newsapp.activities.MainActivity;
 import com.dmsoftware.newsapp.activities.NewsActivity;
 import com.dmsoftware.newsapp.models.Source;
-import com.dmsoftware.newsapp.networking.ClarbitAPI;
-
-import org.w3c.dom.Text;
+import com.dmsoftware.newsapp.networking.ClearbitAPI;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -56,7 +53,7 @@ public class SourceDescriptionFragment extends Fragment {
         //Set values
         logoANImageView.setDefaultImageResId(R.mipmap.ic_launcher);
         logoANImageView.setErrorImageResId(R.mipmap.ic_launcher);
-        logoANImageView.setImageUrl(ClarbitAPI.getUrlToLogo(source.getUrl()));
+        logoANImageView.setImageUrl(ClearbitAPI.getUrlToLogo(source.getUrl()));
         descriptionTextView.setText(source.getDescription());
         urlTextView.setText(source.getUrl());
         categoryTextView.setText(source.getCategory());

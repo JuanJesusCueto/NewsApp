@@ -1,6 +1,5 @@
 package com.dmsoftware.newsapp.adapters;
 
-import android.media.Image;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,7 +12,7 @@ import com.dmsoftware.newsapp.R;
 import com.dmsoftware.newsapp.activities.NewsActivity;
 import com.dmsoftware.newsapp.fragments.SourceDescriptionFragment;
 import com.dmsoftware.newsapp.models.Source;
-import com.dmsoftware.newsapp.networking.ClarbitAPI;
+import com.dmsoftware.newsapp.networking.ClearbitAPI;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -50,7 +49,7 @@ public class SourcesAdapter extends RecyclerView.Adapter<SourcesAdapter.ViewHold
         final Source source = sources.get(position);
         holder.logoANImageView.setDefaultImageResId(R.mipmap.ic_launcher);
         holder.logoANImageView.setErrorImageResId(R.mipmap.ic_launcher);
-        holder.logoANImageView.setImageUrl(ClarbitAPI.getUrlToLogo(source.getUrl()));
+        holder.logoANImageView.setImageUrl(ClearbitAPI.getUrlToLogo(source.getUrl()));
         holder.logoANImageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
